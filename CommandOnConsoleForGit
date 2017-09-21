@@ -1,0 +1,6 @@
+Добавить все файлы:git add .
+Закомитить версию файлов(ввод коментария обязателен):git commit -m""
+Залить файлы в репозиторий github:git push origin master
+
+Курс обучения:
+https://githowto.com/ru
